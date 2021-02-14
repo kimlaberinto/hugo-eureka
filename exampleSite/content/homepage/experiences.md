@@ -10,9 +10,13 @@ experiences:
     location: Country
     writeup: >
       Donec scelerisque egestas augue at tempor. Fusce faucibus magna in.
+
       - Suspendisse lacinia mauris a laoreet vehicula.
+
       - Aenean tincidunt enim vitae ante blandit tempor.
+
       - Nam tincidunt diam quis lorem rutrum ullamcorper.
+      
   - title: Example Role 2
     organization:
       name: Example Organization 2
@@ -33,7 +37,7 @@ widget:
     # Options: left and right. Leave blank to hide.
     position: left
     # Options: sm, md, lg and xl. Default is md.
-    scale: md
+    scale:
   
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
